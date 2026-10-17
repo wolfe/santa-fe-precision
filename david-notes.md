@@ -88,7 +88,7 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
 
 ## Other openings
 
-- **1♥ / 1♠** — 11–15, 5+ cards.
+- **1♥ / 1♠** — 11–15, 5+ cards; responder with 4 - w/ 7-9 dp use mixed raise; w 10+ 2N
 - **1NT** — 14–16, balanced.
 - **2♣** — 11–15, 6+ clubs.
 - **2♦** — a 3-suiter, short in diamonds.
@@ -101,4 +101,4 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
 - **Transfers** are on when no suit has been bid naturally, and responder is the one transferring.
 - **XYZ** applies after 1♦ – 1x – 1x.
 - **No Bergen.** Four-card support uses 2NT, not a Bergen raise.
-- **Notrump shape.** Balanced, and also `2=2=5-4` or `4-2=5-2` so the 5-card suit is a minor. A singleton king may be `4-4-4-1` or `5-4-3-1`.
+- **Notrump shape.** Balanced; **or** no 5-card major **and** `5-4-2-2` or with singleton K+, `4-4-4-1` or `5-4-3-1`.

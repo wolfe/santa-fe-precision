@@ -1,10 +1,8 @@
-# Santa Fe Precision — opening outline
-
-Short opening-bid outline. Suits are ♠ ♥ ♦ ♣. In a shape, `=` locks the suits on each side and `-` lets those two lengths trade places. `2=2=5-4` is 2 spades, 2 hearts, and the minors in either order. `3-1=5-4` is the majors in either order and the minors in either order. `4-4-4-1` is a singleton in any suit. `4=4=1=4` is a singleton diamond.
+# Santa Fe Precision
 
 ## 1♣ — 17+ balanced, or 16+ unbalanced
 
-A balanced 16 opens 1NT, not 1♣.
+A balanced 16 opens 1NT.
 
 - **1♦** — 0–7, any shape.
   - **1M** — a 5-card major, or a 4-card major with a void or singleton. Forcing one round. Opener’s later new suits are game-forcing.
@@ -91,7 +89,13 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
 - **1♥ / 1♠** — 11–15, 5+ cards; responder with 4 - w/ 7-9 dp use mixed raise; w 10+ 2N
 - **1NT** — 14–16, balanced.
 - **2♣** — 11–15, 6+ clubs.
-- **2♦** — a 3-suiter, short in diamonds.
+- **2♦** — a 3-suiter, short in diamonds.  Resonses all natural except:
+  - 2NT asking
+    - 3**♣** — minimum; then 3**♦** then asks for responses as belo
+    - **3♦** — 4=4=1=4
+    - **3♥** — 4=3=1=5
+    - **3♠** — 3=4=1=5
+    - **3NT** — 4=4=0=5 (or 4=4=1=4 if minimum 2N-3**♣-**3**♦-3NT)**
 - **2♥ / 2♠** — 4–9, 6+ cards.
 - **2NT** — 19–20, balanced.
 

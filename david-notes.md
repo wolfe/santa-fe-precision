@@ -5,10 +5,11 @@
 A balanced 16 opens 1NT.
 
 - **1♦** — 0–7, any shape.
-  - **1M** — a 5-card major, or a 4-card major with a void or singleton. Forcing one round. Opener’s later new suits are game-forcing.
+  - **1M** — a 5-card major, or a 4-card major with a void or singleton. Forcing one round.
     - **1NT** — 0–5 dummy points, no support.
     - **2♣** — 5–7 dummy points, no support.
       - **2♦** — artificial. Opener had a minimum.
+      -  Any other new suit is game forcing.
     - **2♦** — 3-card support, 5–7 dummy points.
     - **2M** — 4+ card support, 0–4 dummy points.
     - **3M** — 4+ card support, 5–7 dummy points.
@@ -72,7 +73,7 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
   - **3♦** — like 2NT, but fewer than 3-card support.
 - **1NT** — 7 to a bad 11, balanced, no 4-card major.
 - **2♣** — 4+ clubs, forcing to game unless responder rebids 3♣.
-- **2♦** — 4+ diamonds, forcing to game unless responder rebids 3♣ or 3♦.
+- **2♦** — 4+ diamonds, forcing to game unless responder invites 3♣ (5-4) or 3♦ (6+).
 - **2♥** — 5–9, 5 spades and 4 or 5 hearts.
 - **2♠** — 10–12, 5 spades and 4 or 5 hearts.
 - **2NT** — a good 11 to a bad 13, balanced, stoppers in ♣, ♥, and ♠, no 4-card major. Invites game.
@@ -89,9 +90,9 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
 - **1♥ / 1♠** — 11–15, 5+ cards; responder with 4 - w/ 7-9 dp use mixed raise; w 10+ 2N
 - **1NT** — 14–16, balanced.
 - **2♣** — 11–15, 6+ clubs.
-- **2♦** — a 3-suiter, short in diamonds.  Resonses all natural except:
+- **2♦** — a 3-suiter, 4=4=1=5 minus 1.  Resonses all natural except:
   - 2NT asking
-    - 3**♣** — minimum; then 3**♦** then asks for responses as belo
+    - 3♣ — minimum; then 3♦ then asks for responses as below
     - **3♦** — 4=4=1=4
     - **3♥** — 4=3=1=5
     - **3♠** — 3=4=1=5
@@ -104,5 +105,6 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
 - **Stayman** is on when no suit has been bid naturally yet.
 - **Transfers** are on when no suit has been bid naturally, and responder is the one transferring.
 - **XYZ** applies after 1♦ – 1x – 1x.
-- **No Bergen.** Four-card support uses 2NT, not a Bergen raise.
+- **Lebensohl** over 1N overcalls and over doubled weak 2s
+- **No Bergen.** Four-card invite uses 2NT, not a Bergen raise.
 - **Notrump shape.** Balanced; **or** no 5-card major **and** `5-4-2-2` or with singleton K+, `4-4-4-1` or `5-4-3-1`.

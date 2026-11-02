@@ -6,10 +6,11 @@ A balanced 16 opens 1NT.
 
 - **1♦** — 0–7, any shape.
   - **1M** — a 5-card major, or a 4-card major with a void or singleton. Forcing one round. *19*
-    - **1NT** — 0–5 dummy points, no support. *20*
-    - **2♣** — 5–7 dummy points, no support.
-      - **2♦** — artificial. Opener had a minimum. *59*
-      - Any other new suit is game forcing.
+    - **1NT** — ≤3-card support, 0–5 dummy points. *20*
+    - **2♣** — ≤2-card support, 6–7 dummy points.
+      - **2♦** — artificial. Opener is minimum. *59*
+      - Rebidding the major shows 6+ cards and is not forcing.
+      - A new suit is game forcing.
     - **2♦** — 3-card support, 5–7 dummy points. *20*
     - **2M** — 4+ card support, 0–4 dummy points.
     - **3M** — 4+ card support, 5–7 dummy points.
@@ -73,7 +74,7 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
   - **3♦** — like 2NT, but fewer than 3-card support.
 - **1NT** — 7 to a bad 11, balanced, no 4-card major.
 - **2♣** — 4+ clubs, forcing to game unless responder rebids 3♣.
-- **2♦** — 4+ diamonds, forcing to game unless responder invites 3♣ (5-4) or 3♦ (6+). *65*
+- **2♦** — 4+ diamonds. For now, just bid like inverted minors. *65*
 - **2♥** — 5–9, 5 spades and 4 or 5 hearts. *35*
 - **2♠** — 10–12, 5 spades and 4 or 5 hearts.
 - **2NT** — a good 11 to a bad 13, balanced, stoppers in ♣, ♥, and ♠, no 4-card major. Invites game.
@@ -85,18 +86,43 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
 - **3NT** — a good 13 to 15, natural, stoppers, no 4-card major.
 - **4M** — 7+ cards, to play.
 
+## 2♣ — 11–15, 6+ clubs. *53*
+
+- **2♦** — invitational or better. Asks for more.
+  - **2♥ / 2♠** — 4+ cards, either strength.
+  - **2NT** — no 4-card major, balanced maximum.
+  - **3♣** — no 4-card major, minimum.
+  - **3♦ / 3♥ / 3♠** — maximum, short in that suit, game-forcing.
+- **2♥ / 2♠** — about 10+, 5+ cards, forcing one round.
+- **2NT** — 4+ clubs, limit raise or better.
+- **3♣** — 6–9, 3 clubs.
+- **3♦ / 3♥ / 3♠** — 4+ clubs, splinter, game-forcing.
+- **3NT** — to play.
+- **4♣** — preemptive.
+- **4♦** — Kickback for clubs.
+- **5♣** — more preemptive.
+
+## 2♦ — 11–15, a 3-suiter short in diamonds. *105*
+
+Void or singleton diamond, not the ace or king. Shapes: `4=4=1=4`, `4=4=0=5`, `4=3=1=5`, `3=4=1=5`.
+
+- **Pass / 2♥ / 2♠ / 3♣** — to play.
+- **3♦** — invitational, 6+ diamonds.
+- **3♥ / 3♠** — 5+ cards, forcing, sets trump.
+- **2NT** — asks.
+  - **3♣** — minimum. Then 3♦ asks; responses as below.
+  - **3♦** — `4=4=1=4`.
+  - **3♥** — `4=3=1=5`.
+  - **3♠** — `3=4=1=5`.
+  - **3NT** — `4=4=0=5`, or `4=4=1=4` after 2NT–3♣–3♦.
+- **Simplified Mulberry** — after 2NT. *106*
+  - **4♣** — puppet to 4♦. Then 4♥, 4♠, or 5♣ to play.
+  - **4♦ / 4♥ / 4♠ / 4NT** — Roman key card for the suit below.
+
 ## Other openings. *15*
 
 - **1♥ / 1♠** — 11–15, 5+ cards; responder with 4 - w/ 7-9 dp use mixed raise; w 10+ 2N *47*
 - **1NT** — 14–16, balanced. *15*
-- **2♣** — 11–15, 6+ clubs.
-- **2♦** — a 3-suiter, 4=4=1=5 minus 1.  Resonses all natural except: *105*
-  - 2NT asking
-    - 3♣ — minimum; then 3♦ then asks for responses as below
-    - **3♦** — 4=4=1=4
-    - **3♥** — 4=3=1=5
-    - **3♠** — 3=4=1=5
-    - **3NT** — 4=4=0=5 (or 4=4=1=4 if minimum 2N-3**♣-**3**♦-3NT)**
 - **2♥ / 2♠** — 4–9, 6+ cards. *15*
 - **2NT** — 19–20, balanced.
 

@@ -1,8 +1,6 @@
 # Santa Fe Precision
 
-## 1♣ — 17+ balanced, or 16+ unbalanced. *17*
-
-A balanced 16 opens 1NT.
+## 1♣ — 17+ points balanced, or 16+ unbalanced. *17*
 
 - **1♦** — 0–7, any shape.
   - **1M** — a 5-card major, or a 4-card major with a void or singleton. Forcing one round. *19*
@@ -20,7 +18,7 @@ A balanced 16 opens 1NT.
   - **1NT** — 17–18. *19*
   - **2NT** — 21–23.
   - **2m** — usually a 6-card minor.
-- **1♥** — 8–11, artificial, game-forcing. By a passed hand this is natural, 5+ hearts. *17*
+- **1♥** — 8–11, artificial, game-forcing. By a passed hand this is natural, 5+ hearts. *17, 27*
 - **1♠, 2♣, 2♦, 2♥** — 12+, a 5-card suit. Option: start 1♠ at 8+. *18*
 - **1NT** — 12+, no 5-card suit. Option: swap 1NT and 2♥.
 - **2♠** — 12+, any 4-4-4-1. 2NT asks for the singleton. *62*
@@ -46,7 +44,7 @@ Positive responses are 8–10 and game-forcing. 1♦ is still 0–7.
 - **1NT** — 8+ balanced, and you want the lead.
 - **A suit** — 8+ and a 5-card suit.
 
-## 1♣, then a one-level overcall.
+## 1♣, then a one-level overcall. *29*
 
 - **Pass** — 0–4, or a trap pass.
 - **Double** — 5–7, or 8+ with 4-4-4-1 and the singleton not in their suit.
@@ -54,15 +52,15 @@ Positive responses are 8–10 and game-forcing. 1♦ is still 0–7.
 - **Jump cue-bid** — 8+, 4-4-4-1, singleton in their suit.
 - **1NT** — 8+ with a stopper in their suit.
 
-## 1♣, then a two-level overcall.
+## 1♣, then a two-level overcall. *29*
 
 Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no stopper in their suit. The 4-4-4-1 hand is still the jump cue-bid.
 
-## 1♦ — 11–13 balanced, or 11–15 with diamonds, with both minors, or a 3-suiter that includes diamonds. *35*
+## 1♦ — 11–13 balanced, or 11–15 with diamonds, with both minors, or a 3-suiter that includes diamonds. *35, 42–43*
 
 - **1M** — 6+ points, possibly fewer, 4+ cards.
   - **1♠** over 1♥ — 4 spades and not 4 hearts. Then XYZ. *37*
-  - **2M** — minimum raise: 4+ card support, 11–14 dummy points, losing-trick count 7.
+  - **2M** — minimum raise: exactly 4-card support, 11–14 dummy points, losing-trick count 7.
     - **2NT** — game try.
   - **2♥** over 1♠ only — 5 hearts and 6+ diamonds, not forcing.
   - **3M** — 15–17 dummy points, losing-trick count 6, usually a singleton.
@@ -73,8 +71,8 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
   - **3♣** — 5-5 in the minors, 14–15, losing-trick count 5. Not forcing.
   - **3♦** — like 2NT, but fewer than 3-card support.
 - **1NT** — 7 to a bad 11, balanced, no 4-card major.
-- **2♣** — 4+ clubs, forcing to game unless responder rebids 3♣. (see 1♦–2m continuations)
-- **2♦** — 4+ diamonds. *65* (see 1♦–2m continuations)
+- **2♣** — 4+ clubs, game-forcing unless responder rebids 3♣. (see 1♦–2m continuations)
+- **2♦** — 4+ diamonds, game-forcing unless responder bids 3♣ or 3♦. *65* (see 1♦–2m continuations)
 - **2♥** — 5–9, 5 spades and 4 or 5 hearts. *35*
 - **2♠** — 10–12, 5 spades and 4 or 5 hearts.
 - **2NT** — a good 11 to a bad 13, balanced, stoppers in ♣, ♥, and ♠, no 4-card major. Invites game.
@@ -86,7 +84,7 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
 - **3NT** — a good 13 to 15, natural, stoppers, no 4-card major.
 - **4M** — 7+ cards, to play.
 
-## 1♦–2m continuations. *63*
+## 1♦–2m continuations. *42–43, 63–66*
 
 (An alternative to what follows is to bid on naturally like inverted minors.)
 
@@ -95,9 +93,9 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
 | Call | Fast · 1♦–2m–2♥–3x | Slow · 1♦–2m–2♥–2♠–2NT–3x |
 | --- | --- | --- |
 | 3m | Invite. 6+ cards, about 10–12. | Game force. 6+ cards. Only possible shortness is in the other minor. 1 step asks. 1 step is 2+; 2 steps is short. |
-| The other minor | After 2♣, 3♦ is a game force with 5–5. After 2♦, 3♣ is an invite with either minor longer. | Game force. Usually 5 of m and 4 of the other. |
+| The other minor | After 2♣, 3♦ game force 5–5. After 2♦, 3♣ invites, either minor longer. | Game force. Usually 5 of m and 4 of the other. |
 | 3♥ or 3♠ | Game force. 6+ of m and 4+ of that major. | Game force. 6+ of m, short in that major. |
-| 3NT to play | Responder declares. | Opener declares. |
+| 3NT | Responder declares. | Opener declares. |
 
 - **2♦ / 3♣ / 3♦ / 3♥ / 3♠** over 2♣ — natural. 2♦ is 5+ diamonds, unbalanced, fewer than 4 clubs. 3♣ is 2-2 in the majors and 5-4 in the minors, 11–13. 3♦ is 6+ diamonds and extra values. 3♥ or 3♠ is 5 of that major and 6+ diamonds.
 - **2♠** — a fit for responder’s minor, and a shortage.
@@ -147,7 +145,7 @@ Void or singleton diamond, not the ace or king. Shapes: `4=4=1=4`, `4=4=0=5`, `4
 
 ## Other openings. *15*
 
-- **1♥ / 1♠** — 11–15, 5+ cards; responder with 4 - w/ 7-9 dp use mixed raise; w 10+ 2N *47*
+- **1♥ / 1♠** — 11–15, 5+ cards. With 4+ card support: 7–9 dp, mixed raise (jump to 2M); with 10+ dp, 2NT (modified Jacoby). *47*
 - **1NT** — 14–16, balanced. *15*
 - **2♥ / 2♠** — 4–9, 6+ cards. *15*
 - **2NT** — 19–20, balanced.
@@ -156,7 +154,7 @@ Void or singleton diamond, not the ace or king. Shapes: `4=4=1=4`, `4=4=0=5`, `4
 
 - **Stayman** is on when no suit has been bid naturally yet. *19*
 - **Transfers** are on when no suit has been bid naturally, and responder is the one transferring.
-- **XYZ** applies after 1♦ – 1x – 1x. *68*
-- **Lebensohl** over 1N overcalls and over doubled weak 2s *101*
-- **No Bergen.** Four-card invite uses 2NT, not a Bergen raise. *47*
+- **XYZ** applies after 1♦ – 1x – 1x or 1♥ – 1♠ – 1NT. *68*
+- **Lebensohl** (2NT = puppet to 3♣) when the opponents bid 2♦/2♥/2♠ over our 1NT (opening or overcall), and when a weak 2 is doubled. *101, 202–203*
+- **No Bergen.** A four-card-or-better invite uses 2NT, not a Bergen raise. *47*
 - **Notrump shape.** Balanced; **or** no 5-card major **and** `5-4-2-2` or with singleton K+, `4-4-4-1` or `5-4-3-1`. *19*

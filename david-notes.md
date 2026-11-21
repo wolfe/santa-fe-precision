@@ -73,8 +73,8 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
   - **3♣** — 5-5 in the minors, 14–15, losing-trick count 5. Not forcing.
   - **3♦** — like 2NT, but fewer than 3-card support.
 - **1NT** — 7 to a bad 11, balanced, no 4-card major.
-- **2♣** — 4+ clubs, forcing to game unless responder rebids 3♣.
-- **2♦** — 4+ diamonds. For now, just bid like inverted minors. *65*
+- **2♣** — 4+ clubs, forcing to game unless responder rebids 3♣. (see 1♦–2m continuations)
+- **2♦** — 4+ diamonds. *65* (see 1♦–2m continuations)
 - **2♥** — 5–9, 5 spades and 4 or 5 hearts. *35*
 - **2♠** — 10–12, 5 spades and 4 or 5 hearts.
 - **2NT** — a good 11 to a bad 13, balanced, stoppers in ♣, ♥, and ♠, no 4-card major. Invites game.
@@ -85,6 +85,32 @@ Same as a one-level overcall, except the double is 6–7, or 8+ balanced with no
 - **3M** — preemptive. A hand that would have opened 3M.
 - **3NT** — a good 13 to 15, natural, stoppers, no 4-card major.
 - **4M** — 7+ cards, to play.
+
+## 1♦–2m continuations. *63*
+
+(An alternative to what follows is to bid on naturally like inverted minors.)
+
+- **2♥** — 11–13, balanced, artificial. Responder chooses fast or slow or just places the contract.
+
+| Call | Fast · 1♦–2m–2♥–3x | Slow · 1♦–2m–2♥–2♠–2NT–3x |
+| --- | --- | --- |
+| 3m | Invite. 6+ cards, about 10–12. | Game force. 6+ cards. Only possible shortness is in the other minor. 1 step asks. 1 step is 2+; 2 steps is short. |
+| The other minor | After 2♣, 3♦ is a game force with 5–5. After 2♦, 3♣ is an invite with either minor longer. | Game force. Usually 5 of m and 4 of the other. |
+| 3♥ or 3♠ | Game force. 6+ of m and 4+ of that major. | Game force. 6+ of m, short in that major. |
+| 3NT to play | Responder declares. | Opener declares. |
+
+- **2♦ / 3♣ / 3♦ / 3♥ / 3♠** over 2♣ — natural. 2♦ is 5+ diamonds, unbalanced, fewer than 4 clubs. 3♣ is 2-2 in the majors and 5-4 in the minors, 11–13. 3♦ is 6+ diamonds and extra values. 3♥ or 3♠ is 5 of that major and 6+ diamonds.
+- **2♠** — a fit for responder’s minor, and a shortage.
+  - **2NT** — asks where, low to high.
+    - Over 2♣: **3♣** hearts, **3♦** spades.
+    - Over 2♦: **3♣** clubs, **3♦** hearts, **3♥** spades.
+- **2NT** over 2♣ — `4=4=4=1`, low singleton club, 11–12. A club honor bids 2♥. **3NT** is that shape with 14–15.
+- **2NT** over 2♦ — 6 diamonds, semi-balanced.
+- **3♣** over 2♦ — `4-1=3=5`: 5 clubs, 3 diamonds, and a major shortage.
+  - **3♦** — not forcing. David proposes opener’s 3♥ and 3♠ are splinters.
+  - **3♥** — asks which major is short.
+    - **3♠** — hearts.
+    - **3NT** — spades.
 
 ## 2♣ — 11–15, 6+ clubs. *53*
 
